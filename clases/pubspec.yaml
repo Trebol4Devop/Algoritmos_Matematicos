@@ -1,0 +1,12 @@
+name: app
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  pdf: ^3.11.3
+
+dev_dependencies:
